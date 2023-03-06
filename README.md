@@ -1,4 +1,4 @@
-### Huhu c: 
+### Huhu :) 
 ### I'm macbanner.
 
 <br>
