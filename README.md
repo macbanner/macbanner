@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- <br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=java-dark)](https://git.io/streak-stats)
 
