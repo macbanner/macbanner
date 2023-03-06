@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=java-dark)](https://git.io/streak-stats)
 
 
-[![macbanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=macbanner&show_icons=true&theme=transparent)](https://github.com/macbanner/github-readme-stats)
+[![macbanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=macbanner&show_icons=true&theme=java-dark)](https://github.com/macbanner/github-readme-stats)
 <!--
 **macbanner/macbanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
