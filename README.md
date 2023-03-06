@@ -3,7 +3,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=gradient)](https://git.io/streak-stats)
 
 
 [![macbanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=macbanner&show_icons=true&theme=transparent)](https://github.com/macbanner/github-readme-stats)
