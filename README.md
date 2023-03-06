@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Salih
-###
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=java-dark)](https://git.io/streak-stats)
 
