@@ -4,7 +4,7 @@
 <br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=macbanner&theme=merko-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=macbanner&theme=merko)](https://git.io/streak-stats)
 
 [![macbanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=macbanner&show_icons=true&theme=merko)](https://github.com/macbanner/github-readme-stats)
 
